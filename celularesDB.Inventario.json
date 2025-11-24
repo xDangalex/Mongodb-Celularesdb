@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "692467cf62a8844f3d7bf018"
+  },
+  "id_inventario": "INV001",
+  "modelo_id": "M001",
+  "sucursal": "Bogotá - Centro",
+  "cantidad_disponible": 35,
+  "fecha_actualizacion": "2025-02-15"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0a9"
+  },
+  "id_inventario": "INV001",
+  "modelo_id": "M082",
+  "sucursal": "Bogotá - Centro",
+  "cantidad_disponible": 57,
+  "fecha_actualizacion": "2025-10-16"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0aa"
+  },
+  "id_inventario": "INV002",
+  "modelo_id": "M014",
+  "sucursal": "Bogotá - Norte",
+  "cantidad_disponible": 38,
+  "fecha_actualizacion": "2025-10-31"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0ac"
+  },
+  "id_inventario": "INV004",
+  "modelo_id": "M063",
+  "sucursal": "Cali - Sur",
+  "cantidad_disponible": 67,
+  "fecha_actualizacion": "2025-10-31"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0ad"
+  },
+  "id_inventario": "INV005",
+  "modelo_id": "M024",
+  "sucursal": "Barranquilla - Norte",
+  "cantidad_disponible": 58,
+  "fecha_actualizacion": "2025-10-11"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0ae"
+  },
+  "id_inventario": "INV006",
+  "modelo_id": "M049",
+  "sucursal": "Cartagena - Centro",
+  "cantidad_disponible": 30,
+  "fecha_actualizacion": "2025-11-05"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0af"
+  },
+  "id_inventario": "INV007",
+  "modelo_id": "M062",
+  "sucursal": "Bucaramanga - Cabecera",
+  "cantidad_disponible": 64,
+  "fecha_actualizacion": "2025-11-09"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0b0"
+  },
+  "id_inventario": "INV008",
+  "modelo_id": "M081",
+  "sucursal": "Pereira - Centro",
+  "cantidad_disponible": 61,
+  "fecha_actualizacion": "2025-11-21"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0b1"
+  },
+  "id_inventario": "INV009",
+  "modelo_id": "M010",
+  "sucursal": "Manizales - Chipre",
+  "cantidad_disponible": 26,
+  "fecha_actualizacion": "2025-11-07"
+},
+{
+  "_id": {
+    "$oid": "692469b862a8844f3d7bf0b2"
+  },
+  "id_inventario": "INV010",
+  "modelo_id": "M005",
+  "sucursal": "Cúcuta - Centro",
+  "cantidad_disponible": 34,
+  "fecha_actualizacion": "2025-10-05"
+}]

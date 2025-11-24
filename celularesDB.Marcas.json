@@ -1,0 +1,319 @@
+[{
+  "_id": {
+    "$oid": "6924632d62a8844f3d7bf00b"
+  },
+  "id_marca": "001",
+  "nombre": "Samsung",
+  "pais_origen": "Corea del Sur",
+  "fundacion": 1938,
+  "sitio_web": "https://www.samsung.com",
+  "descripcion": "Fabricante líder mundial de dispositivos móviles y electrónicos innovadores."
+},
+{
+  "_id": {
+    "$oid": "6924632d62a8844f3d7bf00c"
+  },
+  "id_marca": "002",
+  "nombre": "Apple",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1976,
+  "sitio_web": "https://www.apple.com",
+  "descripcion": "Empresa innovadora reconocida por su iPhone y su ecosistema tecnológico integrado."
+},
+{
+  "_id": {
+    "$oid": "6924632d62a8844f3d7bf00d"
+  },
+  "id_marca": "003",
+  "nombre": "Xiaomi",
+  "pais_origen": "China",
+  "fundacion": 2010,
+  "sitio_web": "https://www.mi.com",
+  "descripcion": "Fabricante asiático popular por su excelente relación calidad-precio en dispositivos móviles."
+},
+{
+  "_id": {
+    "$oid": "6924632d62a8844f3d7bf00e"
+  },
+  "id_marca": "004",
+  "nombre": "Huawei",
+  "pais_origen": "China",
+  "fundacion": 1987,
+  "sitio_web": "https://www.huawei.com",
+  "descripcion": "Fabricante global líder en dispositivos móviles y en tecnología de telecomunicaciones."
+},
+{
+  "_id": {
+    "$oid": "6924632d62a8844f3d7bf00f"
+  },
+  "id_marca": "005",
+  "nombre": "Motorola",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1928,
+  "sitio_web": "https://www.motorola.com",
+  "descripcion": "Empresa histórica de telecomunicaciones reconocida por su aporte en la evolución del teléfono móvil."
+},
+{
+  "_id": {
+    "$oid": "6924632d62a8844f3d7bf010"
+  },
+  "id_marca": "006",
+  "nombre": "OnePlus",
+  "pais_origen": "China",
+  "fundacion": 2013,
+  "sitio_web": "https://www.oneplus.com",
+  "descripcion": "Marca enfocada en teléfonos de alto rendimiento con precios competitivos."
+},
+{
+  "_id": {
+    "$oid": "6924632d62a8844f3d7bf011"
+  },
+  "id_marca": "007",
+  "nombre": "Realme",
+  "pais_origen": "China",
+  "fundacion": 2018,
+  "sitio_web": "https://www.realme.com",
+  "descripcion": "Fabricante emergente especializado en dispositivos de gama media y alta con excelente relación calidad-precio."
+},
+{
+  "_id": {
+    "$oid": "6924632d62a8844f3d7bf012"
+  },
+  "id_marca": "008",
+  "nombre": "Sony",
+  "pais_origen": "Japón",
+  "fundacion": 1946,
+  "sitio_web": "https://www.sony.com",
+  "descripcion": "Fabricante japonés reconocido por su tecnología y su línea de smartphones Xperia."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf094"
+  },
+  "id_marca": "001",
+  "nombre": "Samsung",
+  "pais_origen": "Corea del Sur",
+  "fundacion": 1938,
+  "sitio_web": "https://www.samsung.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Samsung."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf095"
+  },
+  "id_marca": "002",
+  "nombre": "Apple",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1976,
+  "sitio_web": "https://www.apple.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Apple."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf096"
+  },
+  "id_marca": "003",
+  "nombre": "Xiaomi",
+  "pais_origen": "China",
+  "fundacion": 2010,
+  "sitio_web": "https://www.xiaomi.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Xiaomi."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf097"
+  },
+  "id_marca": "004",
+  "nombre": "Huawei",
+  "pais_origen": "China",
+  "fundacion": 1987,
+  "sitio_web": "https://www.huawei.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Huawei."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf098"
+  },
+  "id_marca": "005",
+  "nombre": "Motorola",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1928,
+  "sitio_web": "https://www.motorola.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Motorola."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf099"
+  },
+  "id_marca": "006",
+  "nombre": "OnePlus",
+  "pais_origen": "China",
+  "fundacion": 2013,
+  "sitio_web": "https://www.oneplus.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes OnePlus."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf09a"
+  },
+  "id_marca": "007",
+  "nombre": "Realme",
+  "pais_origen": "China",
+  "fundacion": 2018,
+  "sitio_web": "https://www.realme.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Realme."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf09b"
+  },
+  "id_marca": "008",
+  "nombre": "Sony",
+  "pais_origen": "Japón",
+  "fundacion": 1946,
+  "sitio_web": "https://www.sony.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Sony."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf09c"
+  },
+  "id_marca": "009",
+  "nombre": "Nokia",
+  "pais_origen": "Finlandia",
+  "fundacion": 1865,
+  "sitio_web": "https://www.nokia.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Nokia."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf09d"
+  },
+  "id_marca": "010",
+  "nombre": "Oppo",
+  "pais_origen": "China",
+  "fundacion": 2004,
+  "sitio_web": "https://www.oppo.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Oppo."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf09e"
+  },
+  "id_marca": "011",
+  "nombre": "Vivo",
+  "pais_origen": "China",
+  "fundacion": 2009,
+  "sitio_web": "https://www.vivo.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Vivo."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf09f"
+  },
+  "id_marca": "012",
+  "nombre": "Asus",
+  "pais_origen": "Taiwán",
+  "fundacion": 1989,
+  "sitio_web": "https://www.asus.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Asus."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf0a0"
+  },
+  "id_marca": "013",
+  "nombre": "Honor",
+  "pais_origen": "China",
+  "fundacion": 2013,
+  "sitio_web": "https://www.honor.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Honor."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf0a1"
+  },
+  "id_marca": "014",
+  "nombre": "ZTE",
+  "pais_origen": "China",
+  "fundacion": 1985,
+  "sitio_web": "https://www.zte.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes ZTE."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf0a2"
+  },
+  "id_marca": "015",
+  "nombre": "Lenovo",
+  "pais_origen": "China",
+  "fundacion": 1984,
+  "sitio_web": "https://www.lenovo.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Lenovo."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf0a3"
+  },
+  "id_marca": "016",
+  "nombre": "Alcatel",
+  "pais_origen": "Francia",
+  "fundacion": 2004,
+  "sitio_web": "https://www.alcatel.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Alcatel."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf0a4"
+  },
+  "id_marca": "017",
+  "nombre": "Tecno",
+  "pais_origen": "China",
+  "fundacion": 2006,
+  "sitio_web": "https://www.tecno.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Tecno."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf0a5"
+  },
+  "id_marca": "018",
+  "nombre": "Infinix",
+  "pais_origen": "China",
+  "fundacion": 2013,
+  "sitio_web": "https://www.infinix.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Infinix."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf0a6"
+  },
+  "id_marca": "019",
+  "nombre": "Google",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 2016,
+  "sitio_web": "https://www.google.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Google."
+},
+{
+  "_id": {
+    "$oid": "692469ad62a8844f3d7bf0a7"
+  },
+  "id_marca": "020",
+  "nombre": "Nothing",
+  "pais_origen": "Reino Unido",
+  "fundacion": 2020,
+  "sitio_web": "https://www.nothing.com",
+  "descripcion": "Marca de dispositivos móviles y tecnología, reconocida por sus modelos de teléfonos inteligentes Nothing."
+},
+{
+  "_id": {
+    "$oid": "69247a7885c0f3d4302a744a"
+  },
+  "id_marca": "021",
+  "nombre": "PixelPhone",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 2024,
+  "sitio_web": "https://pixelphone.com",
+  "descripcion": "Marca ficticia para pruebas."
+}]

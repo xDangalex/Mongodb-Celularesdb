@@ -1,0 +1,3161 @@
+[{
+  "_id": {
+    "$oid": "6924641b62a8844f3d7bf015"
+  },
+  "id_modelo": "M001",
+  "marca_id": "001",
+  "nombre_modelo": "Samsung Galaxy S25 Ultra",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 1950000,
+  "especificaciones": {
+    "pantalla": "6.9 pulgadas Dynamic AMOLED 2X",
+    "procesador": "Snapdragon 8 Gen 4",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "almacenamiento": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "bateria": "5500mAh",
+    "sistema_operativo": "Android 15",
+    "camaras": {
+      "principal": "250MP",
+      "ultra_gran_angular": "50MP",
+      "telefoto": "50MP periscópico"
+    }
+  },
+  "variantes": [
+    {
+      "color": "Negro Phantom"
+    },
+    {
+      "color": "Titanio Plata"
+    },
+    {
+      "color": "Verde Esmeralda"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf01b"
+  },
+  "id_modelo": "M001",
+  "marca_id": "001",
+  "nombre_modelo": "Samsung Modelo 001",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 777707,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "A-Series",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5033mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf01c"
+  },
+  "id_modelo": "M002",
+  "marca_id": "002",
+  "nombre_modelo": "Apple Modelo 002",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 1278277,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "A-Series",
+    "ram": "8GB",
+    "almacenamiento": "512GB",
+    "bateria": "5979mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf01d"
+  },
+  "id_modelo": "M003",
+  "marca_id": "003",
+  "nombre_modelo": "Xiaomi Modelo 003",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 2349520,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Snapdragon",
+    "ram": "8GB",
+    "almacenamiento": "64GB",
+    "bateria": "4893mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf01e"
+  },
+  "id_modelo": "M004",
+  "marca_id": "004",
+  "nombre_modelo": "Huawei Modelo 004",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 698604,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Snapdragon",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "5512mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf01f"
+  },
+  "id_modelo": "M005",
+  "marca_id": "005",
+  "nombre_modelo": "Motorola Modelo 005",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 876574,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Snapdragon",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "5776mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf020"
+  },
+  "id_modelo": "M006",
+  "marca_id": "006",
+  "nombre_modelo": "OnePlus Modelo 006",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 2997340,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "A-Series",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5423mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf021"
+  },
+  "id_modelo": "M007",
+  "marca_id": "007",
+  "nombre_modelo": "Realme Modelo 007",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 2481277,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Snapdragon",
+    "ram": "8GB",
+    "almacenamiento": "512GB",
+    "bateria": "5478mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf022"
+  },
+  "id_modelo": "M008",
+  "marca_id": "008",
+  "nombre_modelo": "Sony Modelo 008",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 2646273,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "bateria": "4820mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf023"
+  },
+  "id_modelo": "M009",
+  "marca_id": "009",
+  "nombre_modelo": "Nokia Modelo 009",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 2112075,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "A-Series",
+    "ram": "6GB",
+    "almacenamiento": "128GB",
+    "bateria": "4208mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf024"
+  },
+  "id_modelo": "M010",
+  "marca_id": "010",
+  "nombre_modelo": "Oppo Modelo 010",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 2534892,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "512GB",
+    "bateria": "4615mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf025"
+  },
+  "id_modelo": "M011",
+  "marca_id": "011",
+  "nombre_modelo": "Vivo Modelo 011",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 1345967,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Exynos",
+    "ram": "8GB",
+    "almacenamiento": "256GB",
+    "bateria": "5010mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf026"
+  },
+  "id_modelo": "M012",
+  "marca_id": "012",
+  "nombre_modelo": "Asus Modelo 012",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 3281781,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "bateria": "5855mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf027"
+  },
+  "id_modelo": "M013",
+  "marca_id": "013",
+  "nombre_modelo": "Honor Modelo 013",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 1995509,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Kirin",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "bateria": "4052mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf028"
+  },
+  "id_modelo": "M014",
+  "marca_id": "014",
+  "nombre_modelo": "ZTE Modelo 014",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 1706913,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Exynos",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "4587mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf029"
+  },
+  "id_modelo": "M015",
+  "marca_id": "015",
+  "nombre_modelo": "Lenovo Modelo 015",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2602854,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "5483mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf02a"
+  },
+  "id_modelo": "M016",
+  "marca_id": "016",
+  "nombre_modelo": "Alcatel Modelo 016",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 3425822,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "4200mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf02b"
+  },
+  "id_modelo": "M017",
+  "marca_id": "017",
+  "nombre_modelo": "Tecno Modelo 017",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 979654,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "bateria": "4951mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf02c"
+  },
+  "id_modelo": "M018",
+  "marca_id": "018",
+  "nombre_modelo": "Infinix Modelo 018",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 1967560,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "A-Series",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "4941mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf02d"
+  },
+  "id_modelo": "M019",
+  "marca_id": "019",
+  "nombre_modelo": "Google Modelo 019",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 2474796,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Dimensity",
+    "ram": "6GB",
+    "almacenamiento": "512GB",
+    "bateria": "5191mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf02e"
+  },
+  "id_modelo": "M020",
+  "marca_id": "020",
+  "nombre_modelo": "Nothing Modelo 020",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 3457433,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "128GB",
+    "bateria": "5463mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf02f"
+  },
+  "id_modelo": "M021",
+  "marca_id": "001",
+  "nombre_modelo": "Samsung Modelo 021",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 2249467,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Kirin",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "4645mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf030"
+  },
+  "id_modelo": "M022",
+  "marca_id": "002",
+  "nombre_modelo": "Apple Modelo 022",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 996796,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Kirin",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "bateria": "5879mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf031"
+  },
+  "id_modelo": "M023",
+  "marca_id": "003",
+  "nombre_modelo": "Xiaomi Modelo 023",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 880507,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "4792mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf032"
+  },
+  "id_modelo": "M024",
+  "marca_id": "004",
+  "nombre_modelo": "Huawei Modelo 024",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 1345322,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Exynos",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "bateria": "4689mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf033"
+  },
+  "id_modelo": "M025",
+  "marca_id": "005",
+  "nombre_modelo": "Motorola Modelo 025",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 3009758,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "A-Series",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "4947mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf034"
+  },
+  "id_modelo": "M026",
+  "marca_id": "006",
+  "nombre_modelo": "OnePlus Modelo 026",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 1090238,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "A-Series",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "4578mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf035"
+  },
+  "id_modelo": "M027",
+  "marca_id": "007",
+  "nombre_modelo": "Realme Modelo 027",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 2940067,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "256GB",
+    "bateria": "4970mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf036"
+  },
+  "id_modelo": "M028",
+  "marca_id": "008",
+  "nombre_modelo": "Sony Modelo 028",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 2229453,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Kirin",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "4875mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf037"
+  },
+  "id_modelo": "M029",
+  "marca_id": "009",
+  "nombre_modelo": "Nokia Modelo 029",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 3392937,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Dimensity",
+    "ram": "6GB",
+    "almacenamiento": "256GB",
+    "bateria": "4081mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf038"
+  },
+  "id_modelo": "M030",
+  "marca_id": "010",
+  "nombre_modelo": "Oppo Modelo 030",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 2598422,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Exynos",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "4613mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf039"
+  },
+  "id_modelo": "M031",
+  "marca_id": "011",
+  "nombre_modelo": "Vivo Modelo 031",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 764343,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Kirin",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "4939mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf03a"
+  },
+  "id_modelo": "M032",
+  "marca_id": "012",
+  "nombre_modelo": "Asus Modelo 032",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 2298087,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Exynos",
+    "ram": "6GB",
+    "almacenamiento": "64GB",
+    "bateria": "4580mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf03b"
+  },
+  "id_modelo": "M033",
+  "marca_id": "013",
+  "nombre_modelo": "Honor Modelo 033",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 3088259,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Dimensity",
+    "ram": "8GB",
+    "almacenamiento": "512GB",
+    "bateria": "4809mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf03c"
+  },
+  "id_modelo": "M034",
+  "marca_id": "014",
+  "nombre_modelo": "ZTE Modelo 034",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 3401732,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Exynos",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "4939mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf03d"
+  },
+  "id_modelo": "M035",
+  "marca_id": "015",
+  "nombre_modelo": "Lenovo Modelo 035",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 882158,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "512GB",
+    "bateria": "4825mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf03e"
+  },
+  "id_modelo": "M036",
+  "marca_id": "016",
+  "nombre_modelo": "Alcatel Modelo 036",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 1796370,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Exynos",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "4578mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf03f"
+  },
+  "id_modelo": "M037",
+  "marca_id": "017",
+  "nombre_modelo": "Tecno Modelo 037",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2589486,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Exynos",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "5721mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf040"
+  },
+  "id_modelo": "M038",
+  "marca_id": "018",
+  "nombre_modelo": "Infinix Modelo 038",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 1440685,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Exynos",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "5751mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf041"
+  },
+  "id_modelo": "M039",
+  "marca_id": "019",
+  "nombre_modelo": "Google Modelo 039",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 3204845,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "bateria": "4294mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf042"
+  },
+  "id_modelo": "M040",
+  "marca_id": "020",
+  "nombre_modelo": "Nothing Modelo 040",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 3017046,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "64GB",
+    "bateria": "4469mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf043"
+  },
+  "id_modelo": "M041",
+  "marca_id": "001",
+  "nombre_modelo": "Samsung Modelo 041",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 1472518,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "64GB",
+    "bateria": "4866mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf044"
+  },
+  "id_modelo": "M042",
+  "marca_id": "002",
+  "nombre_modelo": "Apple Modelo 042",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 688363,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Exynos",
+    "ram": "6GB",
+    "almacenamiento": "128GB",
+    "bateria": "4059mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf045"
+  },
+  "id_modelo": "M043",
+  "marca_id": "003",
+  "nombre_modelo": "Xiaomi Modelo 043",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 957248,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Kirin",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "4276mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf046"
+  },
+  "id_modelo": "M044",
+  "marca_id": "004",
+  "nombre_modelo": "Huawei Modelo 044",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 1224942,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Exynos",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "bateria": "4404mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf047"
+  },
+  "id_modelo": "M045",
+  "marca_id": "005",
+  "nombre_modelo": "Motorola Modelo 045",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2827472,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Kirin",
+    "ram": "6GB",
+    "almacenamiento": "256GB",
+    "bateria": "5773mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf048"
+  },
+  "id_modelo": "M046",
+  "marca_id": "006",
+  "nombre_modelo": "OnePlus Modelo 046",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 1328571,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Exynos",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "5606mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf049"
+  },
+  "id_modelo": "M047",
+  "marca_id": "007",
+  "nombre_modelo": "Realme Modelo 047",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 1626055,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Exynos",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "5868mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf04a"
+  },
+  "id_modelo": "M048",
+  "marca_id": "008",
+  "nombre_modelo": "Sony Modelo 048",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 2730843,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "4140mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf04b"
+  },
+  "id_modelo": "M049",
+  "marca_id": "009",
+  "nombre_modelo": "Nokia Modelo 049",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 2127646,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5459mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf04c"
+  },
+  "id_modelo": "M050",
+  "marca_id": "010",
+  "nombre_modelo": "Oppo Modelo 050",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 2282850,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5835mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf04d"
+  },
+  "id_modelo": "M051",
+  "marca_id": "011",
+  "nombre_modelo": "Vivo Modelo 051",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 2238217,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "64GB",
+    "bateria": "4857mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf04e"
+  },
+  "id_modelo": "M052",
+  "marca_id": "012",
+  "nombre_modelo": "Asus Modelo 052",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 3299068,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Kirin",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "5046mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf04f"
+  },
+  "id_modelo": "M053",
+  "marca_id": "013",
+  "nombre_modelo": "Honor Modelo 053",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 1013055,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Dimensity",
+    "ram": "6GB",
+    "almacenamiento": "128GB",
+    "bateria": "4105mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf050"
+  },
+  "id_modelo": "M054",
+  "marca_id": "014",
+  "nombre_modelo": "ZTE Modelo 054",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 2016790,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "bateria": "5204mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf051"
+  },
+  "id_modelo": "M055",
+  "marca_id": "015",
+  "nombre_modelo": "Lenovo Modelo 055",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 2161941,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "A-Series",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "5211mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf052"
+  },
+  "id_modelo": "M056",
+  "marca_id": "016",
+  "nombre_modelo": "Alcatel Modelo 056",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 1547538,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "A-Series",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5448mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf053"
+  },
+  "id_modelo": "M057",
+  "marca_id": "017",
+  "nombre_modelo": "Tecno Modelo 057",
+  "año_lanzamiento": 2018,
+  "precio_referencia": 2643577,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "4167mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf054"
+  },
+  "id_modelo": "M058",
+  "marca_id": "018",
+  "nombre_modelo": "Infinix Modelo 058",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 1494217,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "A-Series",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "5012mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf055"
+  },
+  "id_modelo": "M059",
+  "marca_id": "019",
+  "nombre_modelo": "Google Modelo 059",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 609697,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "4522mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf056"
+  },
+  "id_modelo": "M060",
+  "marca_id": "020",
+  "nombre_modelo": "Nothing Modelo 060",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 1304435,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "4517mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf057"
+  },
+  "id_modelo": "M061",
+  "marca_id": "001",
+  "nombre_modelo": "Samsung Modelo 061",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 3492508,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "A-Series",
+    "ram": "6GB",
+    "almacenamiento": "512GB",
+    "bateria": "4120mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf058"
+  },
+  "id_modelo": "M062",
+  "marca_id": "002",
+  "nombre_modelo": "Apple Modelo 062",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 2944181,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "512GB",
+    "bateria": "4914mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf059"
+  },
+  "id_modelo": "M063",
+  "marca_id": "003",
+  "nombre_modelo": "Xiaomi Modelo 063",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 960153,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Kirin",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "5598mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf05a"
+  },
+  "id_modelo": "M064",
+  "marca_id": "004",
+  "nombre_modelo": "Huawei Modelo 064",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 3041300,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Kirin",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "bateria": "5574mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf05b"
+  },
+  "id_modelo": "M065",
+  "marca_id": "005",
+  "nombre_modelo": "Motorola Modelo 065",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 2060158,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "5124mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf05c"
+  },
+  "id_modelo": "M066",
+  "marca_id": "006",
+  "nombre_modelo": "OnePlus Modelo 066",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 2678906,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "A-Series",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "5286mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf05d"
+  },
+  "id_modelo": "M067",
+  "marca_id": "007",
+  "nombre_modelo": "Realme Modelo 067",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 812554,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Exynos",
+    "ram": "6GB",
+    "almacenamiento": "64GB",
+    "bateria": "5595mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf05e"
+  },
+  "id_modelo": "M068",
+  "marca_id": "008",
+  "nombre_modelo": "Sony Modelo 068",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 894339,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "4636mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf05f"
+  },
+  "id_modelo": "M069",
+  "marca_id": "009",
+  "nombre_modelo": "Nokia Modelo 069",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 1404233,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "bateria": "4700mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf060"
+  },
+  "id_modelo": "M070",
+  "marca_id": "010",
+  "nombre_modelo": "Oppo Modelo 070",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 955684,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5497mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf061"
+  },
+  "id_modelo": "M071",
+  "marca_id": "011",
+  "nombre_modelo": "Vivo Modelo 071",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 671004,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "A-Series",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "5596mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf062"
+  },
+  "id_modelo": "M072",
+  "marca_id": "012",
+  "nombre_modelo": "Asus Modelo 072",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 1575366,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Kirin",
+    "ram": "6GB",
+    "almacenamiento": "256GB",
+    "bateria": "5630mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf063"
+  },
+  "id_modelo": "M073",
+  "marca_id": "013",
+  "nombre_modelo": "Honor Modelo 073",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 1354632,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Snapdragon",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "5031mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf064"
+  },
+  "id_modelo": "M074",
+  "marca_id": "014",
+  "nombre_modelo": "ZTE Modelo 074",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 2415206,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Dimensity",
+    "ram": "8GB",
+    "almacenamiento": "64GB",
+    "bateria": "4174mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf065"
+  },
+  "id_modelo": "M075",
+  "marca_id": "015",
+  "nombre_modelo": "Lenovo Modelo 075",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 1638884,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "5703mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf066"
+  },
+  "id_modelo": "M076",
+  "marca_id": "016",
+  "nombre_modelo": "Alcatel Modelo 076",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 1052732,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "5729mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf067"
+  },
+  "id_modelo": "M077",
+  "marca_id": "017",
+  "nombre_modelo": "Tecno Modelo 077",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 2568503,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "512GB",
+    "bateria": "4208mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf068"
+  },
+  "id_modelo": "M078",
+  "marca_id": "018",
+  "nombre_modelo": "Infinix Modelo 078",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 1075887,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Exynos",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "bateria": "5929mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf069"
+  },
+  "id_modelo": "M079",
+  "marca_id": "019",
+  "nombre_modelo": "Google Modelo 079",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 2233107,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Dimensity",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "bateria": "4062mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf06a"
+  },
+  "id_modelo": "M080",
+  "marca_id": "020",
+  "nombre_modelo": "Nothing Modelo 080",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 1361264,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "A-Series",
+    "ram": "8GB",
+    "almacenamiento": "64GB",
+    "bateria": "4587mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf06b"
+  },
+  "id_modelo": "M081",
+  "marca_id": "001",
+  "nombre_modelo": "Samsung Modelo 081",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 3309265,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "5974mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf06c"
+  },
+  "id_modelo": "M082",
+  "marca_id": "002",
+  "nombre_modelo": "Apple Modelo 082",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 2168370,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "512GB",
+    "bateria": "4758mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf06d"
+  },
+  "id_modelo": "M083",
+  "marca_id": "003",
+  "nombre_modelo": "Xiaomi Modelo 083",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 2160502,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Dimensity",
+    "ram": "8GB",
+    "almacenamiento": "512GB",
+    "bateria": "5436mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf06e"
+  },
+  "id_modelo": "M084",
+  "marca_id": "004",
+  "nombre_modelo": "Huawei Modelo 084",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 2747678,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Exynos",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "bateria": "5807mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf06f"
+  },
+  "id_modelo": "M085",
+  "marca_id": "005",
+  "nombre_modelo": "Motorola Modelo 085",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 2889179,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Snapdragon",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "bateria": "4629mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf070"
+  },
+  "id_modelo": "M086",
+  "marca_id": "006",
+  "nombre_modelo": "OnePlus Modelo 086",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 3127456,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "6GB",
+    "almacenamiento": "256GB",
+    "bateria": "4485mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf071"
+  },
+  "id_modelo": "M087",
+  "marca_id": "007",
+  "nombre_modelo": "Realme Modelo 087",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2514488,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "5294mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf072"
+  },
+  "id_modelo": "M088",
+  "marca_id": "008",
+  "nombre_modelo": "Sony Modelo 088",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 1412822,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "bateria": "5843mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf073"
+  },
+  "id_modelo": "M089",
+  "marca_id": "009",
+  "nombre_modelo": "Nokia Modelo 089",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 3192038,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Dimensity",
+    "ram": "6GB",
+    "almacenamiento": "64GB",
+    "bateria": "5078mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf074"
+  },
+  "id_modelo": "M090",
+  "marca_id": "010",
+  "nombre_modelo": "Oppo Modelo 090",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 1390742,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "Kirin",
+    "ram": "6GB",
+    "almacenamiento": "512GB",
+    "bateria": "5012mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf075"
+  },
+  "id_modelo": "M091",
+  "marca_id": "011",
+  "nombre_modelo": "Vivo Modelo 091",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 959426,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "A-Series",
+    "ram": "6GB",
+    "almacenamiento": "128GB",
+    "bateria": "5869mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf076"
+  },
+  "id_modelo": "M092",
+  "marca_id": "012",
+  "nombre_modelo": "Asus Modelo 092",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 2023595,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "bateria": "4453mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf077"
+  },
+  "id_modelo": "M093",
+  "marca_id": "013",
+  "nombre_modelo": "Honor Modelo 093",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 1254806,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Snapdragon",
+    "ram": "8GB",
+    "almacenamiento": "64GB",
+    "bateria": "5708mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf078"
+  },
+  "id_modelo": "M094",
+  "marca_id": "014",
+  "nombre_modelo": "ZTE Modelo 094",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 1531331,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "8GB",
+    "almacenamiento": "512GB",
+    "bateria": "5447mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf079"
+  },
+  "id_modelo": "M095",
+  "marca_id": "015",
+  "nombre_modelo": "Lenovo Modelo 095",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 2460481,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "A-Series",
+    "ram": "4GB",
+    "almacenamiento": "512GB",
+    "bateria": "5279mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf07a"
+  },
+  "id_modelo": "M096",
+  "marca_id": "016",
+  "nombre_modelo": "Alcatel Modelo 096",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2900730,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Dimensity",
+    "ram": "8GB",
+    "almacenamiento": "256GB",
+    "bateria": "5522mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf07b"
+  },
+  "id_modelo": "M097",
+  "marca_id": "017",
+  "nombre_modelo": "Tecno Modelo 097",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 3403853,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "A-Series",
+    "ram": "6GB",
+    "almacenamiento": "512GB",
+    "bateria": "5614mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf07c"
+  },
+  "id_modelo": "M098",
+  "marca_id": "018",
+  "nombre_modelo": "Infinix Modelo 098",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 1082940,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Kirin",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "bateria": "4312mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf07d"
+  },
+  "id_modelo": "M099",
+  "marca_id": "019",
+  "nombre_modelo": "Google Modelo 099",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 2081411,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "A-Series",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "bateria": "5590mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf07e"
+  },
+  "id_modelo": "M100",
+  "marca_id": "020",
+  "nombre_modelo": "Nothing Modelo 100",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2142511,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Exynos",
+    "ram": "6GB",
+    "almacenamiento": "64GB",
+    "bateria": "4393mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Rojo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf07f"
+  },
+  "id_modelo": "M101",
+  "marca_id": "001",
+  "nombre_modelo": "Samsung Modelo 101",
+  "año_lanzamiento": 2022,
+  "precio_referencia": 3442937,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Exynos",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5898mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf080"
+  },
+  "id_modelo": "M102",
+  "marca_id": "002",
+  "nombre_modelo": "Apple Modelo 102",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 2990203,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Kirin",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "4605mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf081"
+  },
+  "id_modelo": "M103",
+  "marca_id": "003",
+  "nombre_modelo": "Xiaomi Modelo 103",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 1929957,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Dimensity",
+    "ram": "8GB",
+    "almacenamiento": "64GB",
+    "bateria": "5072mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf082"
+  },
+  "id_modelo": "M104",
+  "marca_id": "004",
+  "nombre_modelo": "Huawei Modelo 104",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2002639,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "A-Series",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "bateria": "5725mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf083"
+  },
+  "id_modelo": "M105",
+  "marca_id": "005",
+  "nombre_modelo": "Motorola Modelo 105",
+  "año_lanzamiento": 2019,
+  "precio_referencia": 1920700,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "8GB",
+    "almacenamiento": "64GB",
+    "bateria": "5981mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf084"
+  },
+  "id_modelo": "M106",
+  "marca_id": "006",
+  "nombre_modelo": "OnePlus Modelo 106",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2027596,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Kirin",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "bateria": "5226mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf085"
+  },
+  "id_modelo": "M107",
+  "marca_id": "007",
+  "nombre_modelo": "Realme Modelo 107",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 1792208,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "A-Series",
+    "ram": "8GB",
+    "almacenamiento": "256GB",
+    "bateria": "5015mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Dorado"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf086"
+  },
+  "id_modelo": "M108",
+  "marca_id": "008",
+  "nombre_modelo": "Sony Modelo 108",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 1682015,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Snapdragon",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "4162mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf087"
+  },
+  "id_modelo": "M109",
+  "marca_id": "009",
+  "nombre_modelo": "Nokia Modelo 109",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 906982,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "A-Series",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "5046mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf088"
+  },
+  "id_modelo": "M110",
+  "marca_id": "010",
+  "nombre_modelo": "Oppo Modelo 110",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 1980221,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "128GB",
+    "bateria": "5685mAh",
+    "sistema_operativo": "Android"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf089"
+  },
+  "id_modelo": "M111",
+  "marca_id": "011",
+  "nombre_modelo": "Vivo Modelo 111",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 2750614,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "256GB",
+    "bateria": "4789mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf08a"
+  },
+  "id_modelo": "M112",
+  "marca_id": "012",
+  "nombre_modelo": "Asus Modelo 112",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 961549,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Kirin",
+    "ram": "6GB",
+    "almacenamiento": "64GB",
+    "bateria": "4049mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Negro"
+    },
+    {
+      "color": "Verde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf08b"
+  },
+  "id_modelo": "M113",
+  "marca_id": "013",
+  "nombre_modelo": "Honor Modelo 113",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 1093325,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "A-Series",
+    "ram": "6GB",
+    "almacenamiento": "512GB",
+    "bateria": "5095mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf08c"
+  },
+  "id_modelo": "M114",
+  "marca_id": "014",
+  "nombre_modelo": "ZTE Modelo 114",
+  "año_lanzamiento": 2025,
+  "precio_referencia": 2069841,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "4294mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Gris"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf08d"
+  },
+  "id_modelo": "M115",
+  "marca_id": "015",
+  "nombre_modelo": "Lenovo Modelo 115",
+  "año_lanzamiento": 2023,
+  "precio_referencia": 2604058,
+  "especificaciones": {
+    "pantalla": "LCD",
+    "procesador": "A-Series",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "4618mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf08e"
+  },
+  "id_modelo": "M116",
+  "marca_id": "016",
+  "nombre_modelo": "Alcatel Modelo 116",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 1827809,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Dimensity",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5949mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Rojo"
+    },
+    {
+      "color": "Dorado"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf08f"
+  },
+  "id_modelo": "M117",
+  "marca_id": "017",
+  "nombre_modelo": "Tecno Modelo 117",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 2006120,
+  "especificaciones": {
+    "pantalla": "AMOLED",
+    "procesador": "Exynos",
+    "ram": "6GB",
+    "almacenamiento": "256GB",
+    "bateria": "4326mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Blanco"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf090"
+  },
+  "id_modelo": "M118",
+  "marca_id": "018",
+  "nombre_modelo": "Infinix Modelo 118",
+  "año_lanzamiento": 2024,
+  "precio_referencia": 3324532,
+  "especificaciones": {
+    "pantalla": "OLED",
+    "procesador": "Dimensity",
+    "ram": "4GB",
+    "almacenamiento": "64GB",
+    "bateria": "4599mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Blanco"
+    },
+    {
+      "color": "Gris"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf091"
+  },
+  "id_modelo": "M119",
+  "marca_id": "019",
+  "nombre_modelo": "Google Modelo 119",
+  "año_lanzamiento": 2021,
+  "precio_referencia": 1230153,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Exynos",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "bateria": "5756mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Verde"
+    },
+    {
+      "color": "Negro"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6924698162a8844f3d7bf092"
+  },
+  "id_modelo": "M120",
+  "marca_id": "020",
+  "nombre_modelo": "Nothing Modelo 120",
+  "año_lanzamiento": 2020,
+  "precio_referencia": 1570538,
+  "especificaciones": {
+    "pantalla": "IPS",
+    "procesador": "Snapdragon",
+    "ram": "12GB",
+    "almacenamiento": "64GB",
+    "bateria": "5157mAh",
+    "sistema_operativo": "iOS"
+  },
+  "variantes": [
+    {
+      "color": "Azul"
+    },
+    {
+      "color": "Azul"
+    }
+  ]
+}]
